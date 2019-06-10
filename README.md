@@ -20,4 +20,4 @@ This is a basic React app that acts as a client to the broadcast server, which:
 
 ## Demo
 
-![Demo](https://i.imgur.com/7YDfqMl.mp4)
+[![Demo](https://img.youtube.com/vi/e7rBuhho3ks/maxresdefault.jpg)](https://youtu.be/e7rBuhho3ks)
